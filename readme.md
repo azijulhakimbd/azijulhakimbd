@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/azijulhakimbd/azijulhakimbd/blob/main/Github%20Azijulhakimbd.png"/>
+  <img src="https://github.com/azijulhakimbd/azijulhakimbd/blob/main/Azijulhakimbd.png"/>
 </p>
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
