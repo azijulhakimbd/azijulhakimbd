@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi👋%20I'm%20Azijul%20Hakim&descAlign=54&fontAlign=50&textBg=false&animation=twinkling&reversal=false"/>
+  <img src="https://github.com/azijulhakimbd/azijulhakimbd/blob/main/Github%20Azijulhakimbd.png"/>
 </p>
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
