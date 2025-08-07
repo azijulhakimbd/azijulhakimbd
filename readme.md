@@ -1,18 +1,36 @@
 <p align="center">
   <img src="https://github.com/azijulhakimbd/azijulhakimbd/blob/main/Azijulhakimbd.png"/>
 </p>
+## 👋 About Me
 
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+Hi there! I'm **Md. Azijul Hakim**, a passionate **Frontend Web Developer** from Bangladesh 🇧🇩.
+
+🔭 I specialize in building interactive and user-friendly web interfaces using:
+
+- **React.js**
+- **Tailwind CSS**
+- **Next.js**
+- **Firebase**
+- **MongoDB & Express (MERN Stack)**
+
+💡 I love turning ideas into beautiful, scalable digital experiences. Whether it's a landing page or a full-stack web application, I strive for clean code and great UX.
+
+🌱 Currently learning:
+- Advanced animations with **Framer Motion**
+- Backend integrations with **Node.js** and **MongoDB**
+- Prompt Engineering for **AI** tools
+- Exploring **TypeScript** to enhance my React and Node.js projects with static typing.
+
+📫 How to reach me:
+- 📫 [azijul.info@gmail.com](mailto:azijul.info@gmail.com)
+- LinkedIn: [linkedin.com/in/azijulhakimbd](https://www.linkedin.com/in/azijulhakimbd)
+- 👨‍💻 All of my projects are available at [https://azijulhakimbd.netlify.app/projects](https://azijulhakimbd.netlify.app/projects)
+  
+🚀 Open to freelance projects, collaborations, and full-time opportunities!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azijulhakimbd&label=Profile%20views&color=0e75b6&style=flat" alt="azijulhakimbd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azijulhakimbd" alt="azijulhakimbd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/azijulhakimbd" target="blank"><img src="https://img.shields.io/twitter/follow/azijulhakimbd?logo=twitter&style=for-the-badge" alt="azijulhakimbd" /></a> </p>
-
-- 🌱 I’m currently exploring **NEXT.js and Typescript**
-- 👨‍💻 All of my projects are available at [https://azijulhakimbd.netlify.app/projects](https://azijulhakimbd.netlify.app/projects)
-- 📫 How to reach me **azijul.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azijulhakimbd&show_icons=true&locale=en" alt="azijulhakimbd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azijulhakimbd&" alt="azijulhakimbd" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azijulhakimbd" alt="azijulhakimbd" /></a> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
