@@ -2,7 +2,7 @@
   <img src="https://github.com/azijulhakimbd/azijulhakimbd/blob/main/Azijulhakimbd.png"/>
 </p>
 <h3 align="left">About Me</h3>
-Hi there! I'm **Md Azijul Hakim**, a passionate **Frontend Web Developer* from Bangladesh 🇧🇩.
+Hi there! I'm **Md Azijul Hakim**, a passionate **Frontend Web Developer** from Bangladesh 🇧🇩.
 
 🔭 I specialize in building interactive and user-friendly web interfaces using:
 
