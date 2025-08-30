@@ -29,7 +29,10 @@ Hi there! I'm **Md Azijul Hakim**, a passionate **Frontend Web Developer** from 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azijulhakimbd&label=Profile%20views&color=0e75b6&style=flat" alt="azijulhakimbd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azijulhakimbd" target="blank"><img src="https://img.shields.io/twitter/follow/azijulhakimbd?logo=twitter&style=for-the-badge" alt="azijulhakimbd" /></a> </p>
+<a href="https://www.linkedin.com/in/azijulhakimbd/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+</a>
+<p align="left"> <a href="https://twitter.com/azijulhakimbd" target="blank"><img src="https://img.shields.io/twitter/follow/azijulhakimbd?logo=twitter&style=for-the-badge" alt="Follow On Twitter" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
