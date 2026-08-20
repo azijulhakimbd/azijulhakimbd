@@ -1,43 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=180&section=header&text=Md%20Azijul%20Hakim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563eb,75:7c3aed,100:06b6d4&height=190&section=header&text=Md.%20Azijul%20Hakim&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn"
+    width="100%"
+    alt="Md. Azijul Hakim"
+  />
 </p>
 
 <h1 align="center">Md. Azijul Hakim</h1>
 
 <p align="center">
-  <strong>Frontend AI Engineer · Full-Stack Developer · Builder</strong>
+  <strong>Frontend AI Engineer · Full-Stack Developer · Product Builder</strong>
 </p>
 
 <p align="center">
-  I build modern, intelligent and production-ready web experiences
+  Building modern, intelligent and production-ready web experiences
   <br />
-  with React, Next.js, TypeScript and AI-powered technologies.
+  with <strong>Next.js · React · TypeScript · AI</strong>
 </p>
 
 <p align="center">
   <a href="https://azijul.pro.bd">
-    <img src="https://img.shields.io/badge/Portfolio-azijul.pro.bd-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-azijul.pro.bd-020617?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/azijulhakimbd">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:azijul.info@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azijulhakimbd&label=Profile%20Views&color=2563eb&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/azijulhakimbd?label=Followers&style=flat-square&color=7c3aed" />
+  <img
+    src="https://komarev.com/ghpvc/?username=azijulhakimbd&label=PROFILE%20VIEWS&color=2563eb&style=flat-square"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/azijulhakimbd?label=FOLLOWERS&style=flat-square&color=7c3aed"
+    alt="GitHub followers"
+  />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Md. Azijul Hakim**, a **Frontend AI Engineer from Bangladesh 🇧🇩** passionate about building products at the intersection of **frontend engineering, AI and great user experience**.
+I'm **Md. Azijul Hakim**, a **Frontend AI Engineer from Bangladesh 🇧🇩** focused on building modern web products where **great interfaces, strong engineering and AI** come together.
 
-I enjoy turning ideas into polished digital products — from responsive interfaces and design systems to full-stack applications and AI-powered workflows.
+I enjoy taking ideas from **concept → design → architecture → development → deployment**.
 
 ```ts
 const azijul = {
@@ -46,81 +65,68 @@ const azijul = {
 
   focus: [
     "AI-powered applications",
-    "Modern frontend architecture",
-    "Full-stack web development",
+    "Frontend engineering",
+    "Full-stack development",
+    "Interactive UI/UX",
     "Developer experience",
-    "Interactive UI/UX"
   ],
 
-  currentlyBuilding: [
-    "AI-powered web experiences",
-    "Next.js applications",
-    "Intelligent developer workflows"
-  ]
+  stack: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "PostgreSQL",
+  ],
 };
 ```
 
 ---
 
-## ⚡ What I Do
+## ⚡ What I Build
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="33%" align="center">
 
-### 🧠 AI Engineering
+### 🧠 AI
 
-* AI-powered web applications
-* LLM integrations
-* Prompt engineering
-* AI-assisted development
-* Intelligent user experiences
-* Agentic workflows
-
-</td>
-
-<td width="50%">
-
-### 🎨 Frontend Engineering
-
-* React & Next.js
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-* Framer Motion
-* Responsive & accessible UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Full-Stack Development
-
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* Prisma
-* Supabase
-* REST APIs
+LLM Applications
+AI Workflows
+Prompt Engineering
+AI Agents
+Tool Calling
+AI-powered UX
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🚀 Product Development
+### 🎨 Frontend
 
-* Scalable architecture
-* Authentication
-* API integration
-* Performance optimization
-* Testing
-* Deployment & CI/CD
+React
+Next.js
+TypeScript
+Tailwind CSS
+shadcn/ui
+Framer Motion
 
 </td>
-</tr>
+
+<td width="33%" align="center">
+
+### ⚙️ Full-Stack
+
+Node.js
+Express
+MongoDB
+PostgreSQL
+Prisma
+Supabase
+
+</td>
+  </tr>
 </table>
 
 ---
@@ -130,189 +136,304 @@ const azijul = {
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma"
+    alt="Frontend technologies"
+  />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase,firebase" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase,firebase"
+    alt="Backend and database technologies"
+  />
 </p>
 
-### AI, Cloud & Tools
+### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker,vscode"
+    alt="Development tools"
+  />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🤖 AI Portfolio
+
+AI-focused developer portfolio featuring projects, experience, certifications and interactive AI experiences.
+
+**Next.js · TypeScript · Tailwind · AI**
+
+<a href="https://azijul.pro.bd">
+View Portfolio →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧪 AI Lab
+
+A space for experimenting with AI interfaces, LLM workflows, prompts and intelligent product experiences.
+
+**Next.js · TypeScript · AI**
+
+<a href="https://azijul.pro.bd/ai-lab">
+Explore AI Lab →
+</a>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+
+### 🐾 Petsera
+
+Full-stack pet adoption platform with authentication, adoption workflows and online payments.
+
+**React · Node.js · MongoDB · Firebase · Stripe**
+
+</td>
+
+<td width="50%">
+
+### 🏨 EasyStay
+
+Modern accommodation platform with authentication, database architecture and scalable UI.
+
+**Next.js · Prisma · Supabase**
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+
+### ✅ NextTask
+
+Modern task management application built with a clean Next.js architecture.
+
+**Next.js · TypeScript · Tailwind**
+
+<a href="https://next-task-ten-theta.vercel.app/">
+Live Preview →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📰 Ajker Nalitabari
+
+Modern regional news and media platform.
+
+**Next.js · PostgreSQL · Prisma · shadcn/ui**
+
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://azijul.pro.bd/projects">
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-2563eb?style=for-the-badge&logo=rocket&logoColor=white"
+      alt="Explore all projects"
+    />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Currently Exploring
 
-```text
-AI Engineering
-├── LLM-powered applications
-├── AI agents & workflows
-├── Prompt engineering
-├── Tool calling
-└── AI-assisted development
+<table>
+  <tr>
+    <td width="50%">
 
-Frontend Engineering
-├── Next.js
-├── TypeScript
-├── Advanced animations
-├── Design systems
-└── Performance optimization
+### AI Engineering
 
-Backend & Infrastructure
-├── PostgreSQL
-├── Prisma
-├── Supabase
-├── API architecture
-└── Deployment workflows
-```
+* LLM-powered applications
+* AI agents
+* Tool calling
+* Agentic workflows
+* Prompt engineering
+* AI-assisted development
 
----
+</td>
 
-## 🚀 Featured Projects
+<td width="50%">
 
-### 🤖 AI Projects
+### Modern Web
 
-| Project                     | Description                                                       | Stack                           |
-| --------------------------- | ----------------------------------------------------------------- | ------------------------------- |
-| **AI Portfolio**            | AI-focused developer portfolio with interactive experiences       | Next.js · TypeScript · Tailwind |
-| **AI Lab**                  | Experiments with AI interfaces, prompts and intelligent workflows | Next.js · AI · TypeScript       |
-| **AI-powered Applications** | Exploring practical LLM integrations and agentic workflows        | AI · React · Next.js            |
+* Next.js architecture
+* TypeScript
+* Design systems
+* Performance
+* Accessibility
+* Testing
 
-### 💻 Full-Stack Projects
-
-| Project              | Description                           | Stack                           |
-| -------------------- | ------------------------------------- | ------------------------------- |
-| **Petsera**          | Full-stack pet adoption platform      | MERN · Firebase · Stripe        |
-| **EasyStay**         | Modern accommodation booking platform | Next.js · Prisma · Supabase     |
-| **NextTask**         | Modern task management application    | Next.js · TypeScript · Tailwind |
-| **Ajker Nalitabari** | News and media platform               | Next.js · PostgreSQL · Prisma   |
-
-<p align="center">
-  <a href="https://azijul.pro.bd/projects">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-2563eb?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Learning & Certifications
+## 🏆 Certifications & Learning
 
-I'm continuously investing in **AI engineering and modern web development**.
+I'm continuously developing my skills in **AI engineering, modern frontend development and production software engineering**.
 
-### 🎓 Recent Focus
+### Current Focus
 
-* **AI Fluency**
-* **Claude & Generative AI**
-* **AI-assisted software development**
-* **Frontend AI engineering**
-* **Modern Next.js architecture**
-* **TypeScript**
-* **Production-ready application development**
+* AI Fluency
+* Claude & Generative AI
+* AI-assisted software development
+* Frontend AI Engineering
+* Next.js architecture
+* TypeScript
+* Production application development
 
-<p align="center">
+<p>
   <a href="https://azijul.pro.bd/certifications">
-    <img src="https://img.shields.io/badge/View%20Certifications-7c3aed?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/VIEW%20CERTIFICATIONS-7c3aed?style=for-the-badge&logo=googlecloud&logoColor=white"
+      alt="View certifications"
+    />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=azijulhakimbd&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=azijulhakimbd&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub statistics"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azijulhakimbd&layout=compact&hide_border=true&theme=transparent"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azijulhakimbd&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="170"
+    alt="Top programming languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=azijulhakimbd&hide_border=true&theme=transparent"
-    width="70%"
+    height="170"
+    alt="GitHub contribution streak"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🎯 2026 Focus
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/azijulhakimbd/azijulhakimbd/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-  />
-</p>
+```text
+BUILD
+→ AI-powered products
+
+LEARN
+→ Deeper AI engineering
+
+SHIP
+→ Production-ready applications
+
+CONTRIBUTE
+→ Open source & developer community
+
+GROW
+→ Become a stronger product engineer
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://azijul.pro.bd">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-azijul.pro.bd-111827?style=for-the-badge" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/azijulhakimbd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://github.com/azijulhakimbd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="mailto:azijul.info@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@azijulhakimbd">
-    YouTube
-  </a>
+  <a href="https://www.youtube.com/@azijulhakimbd">YouTube</a>
   •
-  <a href="https://www.instagram.com/azijulhakimbd">
-    Instagram
-  </a>
+  <a href="https://www.instagram.com/azijulhakimbd">Instagram</a>
   •
-  <a href="https://medium.com/@azijulhakimbd">
-    Medium
-  </a>
+  <a href="https://medium.com/@azijulhakimbd">Medium</a>
 </p>
 
 ---
 
 ## 💼 Open To
 
-I'm currently open to:
+I'm open to:
 
-* 🚀 AI engineering opportunities
-* 💻 Frontend / Full-stack roles
-* 🤝 Open-source collaboration
-* 🧠 AI & web development projects
-* 💼 Freelance opportunities
-
-If you're building something interesting, **let's connect.**
+**AI Engineering · Frontend Engineering · Full-Stack Development · Open Source · Freelance · Collaboration**
 
 <p align="center">
   <a href="mailto:azijul.info@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Together-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20TOGETHER-2563eb?style=for-the-badge&logo=rocket&logoColor=white"
+      alt="Let's build something together"
+    />
   </a>
 </p>
 
 ---
 
 <p align="center">
+  <strong>Build → Learn → Experiment → Ship → Repeat.</strong>
+</p>
+
+<p align="center">
   <i>Building thoughtful interfaces. Exploring AI. Shipping useful products.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:020617&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
